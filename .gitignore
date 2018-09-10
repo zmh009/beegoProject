@@ -1,0 +1,4 @@
+*.memprof
+*.pprof
+beegoProject
+./tests/*
